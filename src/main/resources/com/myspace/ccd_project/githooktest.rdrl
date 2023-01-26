@@ -1,9 +1,0 @@
-package com.myspace.ccd_project;
-
-import java.lang.Number;
-
-rule "githooktest"
-	dialect "mvel"
-	when
-	then
-end
